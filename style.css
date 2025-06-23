@@ -30,6 +30,7 @@ section{
     max-width: 1500px;
     margin: auto;
     padding: 50px 20px 25px 20px;
+    scroll-margin-top: 120px; 
 }
 
 header{  
@@ -85,6 +86,7 @@ h2{
 
 p{
   margin: 20px 0;
+  line-height: 2em;
 }
 strong,  li::marker{
     color: var(--azul-royal);
@@ -316,6 +318,14 @@ strong,  li::marker{
 }
 
 
+#inicio{
+  padding-bottom:0 ;
+}
+#inicio p{
+  text-align: justify;
+}
+
+
 #box-sobre{
     display: flex;
     align-items: center;
@@ -404,9 +414,9 @@ strong,  li::marker{
 }
 
 .ponto-tempo p {
-  font-size: 0.95rem;
-  line-height: 1.6;
-  color: #333;
+  font-size: 1em;
+  line-height: 2em;
+  
 }
 
 

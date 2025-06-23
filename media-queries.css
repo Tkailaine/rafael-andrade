@@ -65,9 +65,15 @@ header{
 }
 
 
+#inicio{
+  width: 80%;
+}
+
+
 #box-sobre{
     flex-direction: column;
     gap: 50px;
+    padding-top: 0;
 }
 
 #box-sobre h2{
@@ -188,10 +194,15 @@ header{
    cursor: pointer;
 }
 
+#inicio{
+  width: 80%;
+}
+
 
 #box-sobre{
     flex-direction: column;
     gap: 50px;
+    padding-top: 0;
 }
 
 #box-sobre h2{
