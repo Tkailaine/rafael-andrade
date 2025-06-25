@@ -50,8 +50,11 @@ header{
 
 #menu ul{
   flex-direction: column;
-  padding: 30px 50px;
+  padding: 30px 0px 30px 20px;
+
 }
+
+
 
 #fechar-menu{
    position: absolute;
