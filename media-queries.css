@@ -139,6 +139,8 @@ header{
 
 
 
+
+
 }
 
 /* TABLET */
@@ -320,6 +322,12 @@ header{
   font-size: 3em;
 }
 
+#container-atuacoes{
+  width: 80%;
+}
+
+
+
 }
 
 /* TELAS GRANDES */
@@ -376,9 +384,17 @@ header{
     main{padding-top: 10px; /* ajuste conforme a altura do menu/header */}
 
     aside {
-    margin: 0px 25% 0;
+    
+    width: 80vw;
+    margin: auto;
     padding: 160px 0 0;
 }
+
+#container-atuacoes{
+  width: 80%;
+}
+
+
 }
 
 
