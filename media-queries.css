@@ -69,6 +69,10 @@ header{
   width: 80%;
 }
 
+#inicio h2{
+  text-align: justify;
+}
+
 
 #box-sobre{
     flex-direction: column;
@@ -196,6 +200,10 @@ header{
 
 #inicio{
   width: 80%;
+}
+
+#inicio h2{
+  text-align: justify;
 }
 
 
