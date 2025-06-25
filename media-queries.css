@@ -133,6 +133,12 @@ header{
 }
 
 
+#container-atuacoes{
+  width: 80%;
+}
+
+
+
 }
 
 /* TABLET */
@@ -262,6 +268,13 @@ header{
   flex-direction: column;
 
 }
+
+
+
+#container-atuacoes{
+  width: 80%;
+}
+
 }
 
 /* DESKTOP */
